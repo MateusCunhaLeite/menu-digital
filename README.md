@@ -41,7 +41,7 @@ https://codewaves.com.br/cardapio-pizzaria/ <br>
 
 ## Contato
 
-Criado por **Vinicius Fernandes**. Para mais informações, entre em contato pelo GitHub ou via e-mail vinicius1006.fernandes@gmail.com.
+Criado por **Mateus Afonso**. Para mais informações, entre em contato pelo GitHub ou via e-mail mateus.ladc@gmail.com.
 
 ---
 Esse projeto visa melhorar a gestão de cardápios em restaurantes, trazendo praticidade e uma experiência digital mais atrativa para os clientes.
